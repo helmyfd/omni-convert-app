@@ -5,9 +5,8 @@ OmniConvert adalah aplikasi desktop berbasis Python yang dirancang untuk melakuk
   ## Fitur Utama
 - **Konversi Massal Mandiri**: Mengonversi banyak file sekaligus dalam satu kali klik.
 - **Deteksi Kategori Otomatis**: Memindai folder sumber dan mengelompokkan file secara otomatis berdasarkan ekstensinya.
-- **Antarmuka Modern & Responsif**: Menggunakan tema gelap (*Dark Mode*) dari `CustomTkinter` dengan tata letak yang otomatis menyesuaikan ukuran jendela (*window resizing*).
 - **Log Terminal Real-time**: Menampilkan status proses konversi baris demi baris secara langsung.
-- **Aman & Lokal**: Semua proses konversi dilakukan 100% di komputer lokal Anda tanpa mengunggah file ke internet.
+- **Lokal**: Semua proses konversi dilakukan 100% di komputer lokal Anda tanpa mengunggah file ke internet.
 
   ## Dukungan Format Konversi
 
